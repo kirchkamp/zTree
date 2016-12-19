@@ -1,9 +1,9 @@
 \name{toLongDate}
 \alias{toLongDate}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{Converts short (old) z-Tree dates into long (new) z-Tree dates.}
+\title{Converts short (old) 'z-Tree' dates into long (new) 'z-Tree' dates.}
 \description{
-Old versions of z-Tree stored dates as, e.g. 050613JN (the first six
+Old versions of 'z-Tree' stored dates as, e.g. 050613JN (the first six
 being year-month-date, the last two characters are the time). Newer versions
 use strings like 091112_1600 (time is now in the last four
 characters). This function converts the old format into the new format
@@ -22,7 +22,7 @@ toLongDate(shortDate)
   now the time translated.
 }
 \references{
-  Urs Fischbacher. z-Tree Manual 2.1 Experimenter's Manual. Zurich. 2002.
+  Urs Fischbacher. "z-Tree Manual 2.1 Experimenter's Manual". Zurich. 2002.
 }
 \author{Oliver Kirchkamp
 }

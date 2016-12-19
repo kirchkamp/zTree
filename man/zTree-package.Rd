@@ -17,8 +17,8 @@ The DESCRIPTION file:
 \packageAuthor{zTree}
 Maintainer: \packageMaintainer{zTree}
 }
-\references{Urs Fischbacher. z-Tree: Zurich Toolbox for Ready-made Economic Experiments.
-Experimental Economics (2) 171-178, 2007
+\references{Urs Fischbacher. "z-Tree: Zurich Toolbox for Ready-made Economic Experiments."
+  Experimental Economics (2) 171-178, 2007.
 }
 \keyword{package}
 \examples{

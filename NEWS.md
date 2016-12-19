@@ -1,3 +1,5 @@
+# zTree 1.0.2, 2016-12-19:
+## CRAN requirements
 # zTree 1.0.1, 2016-12-18:
 ## documentation
 # zTree 1.0, 2016-12-17:
